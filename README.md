@@ -1,5 +1,9 @@
 # CachyOS Gaming Setup
 
+<p align="center">
+  <img src="what-it-does.png" alt="CachyOS Gaming Setup - Feature Matrix" width="800">
+</p>
+
 **One script that turns a fresh CachyOS KDE install into a system that is updated, tidied up and set up the way most people want it, without doing it all by hand.**
 
 After every fresh install I found myself doing the same things again: removing tools nobody uses, fixing the same small annoyances, setting up drivers, hiding menu entries I never open. This script does all of that in one go. It is long on purpose, because you should be able to see exactly what it does.
