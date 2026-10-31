@@ -1,8 +1,8 @@
 # CachyOS Gaming Setup
 
-<p align="center">
+[<p align="center">
   <img src="what-it-does.png" alt="CachyOS Gaming Setup - Feature Matrix" width="800">
-</p>
+</p>](https://github.com/Tahomallee/cachyos-gaming-setup/tree/main)
 
 **One script that turns a fresh CachyOS KDE install into a system that is updated, tidied up and set up the way most people want it, without doing it all by hand.**
 
