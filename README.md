@@ -18,7 +18,7 @@ After every fresh install I found myself doing the same things again: removing t
 ## Install
 
 ```bash
-git clone https://github.com/rittertahomallee-blip/cachyos-gaming-setup.git
+git clone https://github.com/Tahomallee/cachyos-gaming-setup
 cd cachyos-gaming-setup
 less CachyOS-Setup-Public.sh        # read it first
 ./CachyOS-Setup-Public.sh
